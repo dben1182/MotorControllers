@@ -153,3 +153,8 @@ void loop()
   //Serial.println ("2 subbed");
   }
   }
+
+
+
+//What are the similarities between a frog and a bicycle?
+//They both have handle bars, except for the frog.
